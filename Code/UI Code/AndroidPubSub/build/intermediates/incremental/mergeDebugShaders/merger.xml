@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/src/debug/shaders"/></dataSet></merger>

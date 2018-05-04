@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32942b64185b16131244ae4bcf54a642/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/61377975b54a20c14bd45fc44bb4b094/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/c9065ffc36f7f4a51de13aa73ea30548/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/da10a511ad19eda84dc56cab2633f99d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4dd34c1421679a54e9c563f5f208a97b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/f0c63a236a570c72ecc3416594a9f6a2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/72f60699f1d23dd0fb5392a13ca4da56/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/371410890217c9908c8c46217bd38157/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/920077551d298a6812f9e39a91cd1ee7/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:5:5-30
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:4:5-28
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+uses-sdk
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32942b64185b16131244ae4bcf54a642/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32942b64185b16131244ae4bcf54a642/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/61377975b54a20c14bd45fc44bb4b094/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/61377975b54a20c14bd45fc44bb4b094/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/c9065ffc36f7f4a51de13aa73ea30548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/c9065ffc36f7f4a51de13aa73ea30548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/da10a511ad19eda84dc56cab2633f99d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/da10a511ad19eda84dc56cab2633f99d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4dd34c1421679a54e9c563f5f208a97b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4dd34c1421679a54e9c563f5f208a97b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/f0c63a236a570c72ecc3416594a9f6a2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/f0c63a236a570c72ecc3416594a9f6a2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/72f60699f1d23dd0fb5392a13ca4da56/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/72f60699f1d23dd0fb5392a13ca4da56/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/371410890217c9908c8c46217bd38157/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/371410890217c9908c8c46217bd38157/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/920077551d298a6812f9e39a91cd1ee7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/920077551d298a6812f9e39a91cd1ee7/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32942b64185b16131244ae4bcf54a642/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:9:9-38
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:8:9-35
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+		INJECTED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:15:22-64
+application
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:17:5-28:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32942b64185b16131244ae4bcf54a642/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/32942b64185b16131244ae4bcf54a642/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/61377975b54a20c14bd45fc44bb4b094/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/61377975b54a20c14bd45fc44bb4b094/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/c9065ffc36f7f4a51de13aa73ea30548/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/c9065ffc36f7f4a51de13aa73ea30548/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/da10a511ad19eda84dc56cab2633f99d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/da10a511ad19eda84dc56cab2633f99d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4dd34c1421679a54e9c563f5f208a97b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4dd34c1421679a54e9c563f5f208a97b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/f0c63a236a570c72ecc3416594a9f6a2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/f0c63a236a570c72ecc3416594a9f6a2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/72f60699f1d23dd0fb5392a13ca4da56/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/72f60699f1d23dd0fb5392a13ca4da56/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/371410890217c9908c8c46217bd38157/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/371410890217c9908c8c46217bd38157/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/920077551d298a6812f9e39a91cd1ee7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/920077551d298a6812f9e39a91cd1ee7/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:18:9-35
+activity#com.amazonaws.demo.androidpubsub.PubSubActivity
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:21:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/AndroidManifest.xml:25:27-74

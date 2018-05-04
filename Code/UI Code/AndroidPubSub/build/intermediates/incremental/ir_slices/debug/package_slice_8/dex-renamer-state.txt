@@ -1,0 +1,4 @@
+#Wed Apr 18 19:00:33 IST 2018
+base.0=/home/neeladri/Documents/embedded_sys/projectIot/aws-sdk-android-samples/AndroidPubSub/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
